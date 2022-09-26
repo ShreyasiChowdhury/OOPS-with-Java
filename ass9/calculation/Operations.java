@@ -18,4 +18,3 @@ public class Operations
         return a*b;
     }
 }
-m

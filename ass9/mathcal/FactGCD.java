@@ -18,4 +18,4 @@ public class FactGCD
         }
         return gcd;
     }
-}f
+}
